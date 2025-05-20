@@ -1,14 +1,4 @@
-PORT=8000
-CORS_ORIGIN=*
-MONGODB_URL=mongodb+srv://sauravpatel786:patel786@cluster0.wjrryoh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-DB_NAME="gullak"
-ACCESS_TOKEN_SECRET=sdhjfskkbjkgfkdbjhfjhbvkjdshkdfsknv
-ACCESS_TOKEN_EXPIRY=1d
-REFRESH_TOKEN_SECRET=dbjksdbjkbnfdsjknjkdsjkn
-REFRESH_TOKEN_EXPIRY=10d
-CLOUDINARY_CLOUD_NAME= 'drvlzegbg'
-CLOUDINARY_CLOUD_SECRET='h8xMndkca2K9f1vfBZQe0tGJIpE'
-CLOUDINARY_CLOUD_KEY='878876333414651'
+
 
 
 
